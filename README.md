@@ -1,8 +1,8 @@
 ### Hi, I'm Max 👋
 
-I'm a **legal-domain expert and full-stack engineer** building at the intersection of law and applied AI.
+I'm a **legal-domain conversant and full-stack engineer** building at the intersection of law and applied AI.
 
-I design and operate **[ParaIQ](https://github.com/max-lau/paraiq)** — an AI-native, multi-tenant legal platform — end to end: the AI reasoning layer, the trust and isolation infrastructure around it, and the product itself. Because I've been both the attorney using the tool and the engineer building it, the guardrails sit where a practitioner knows they need to.
+I design and operate **[ParaIQ](https://github.com/max-lau/paraiq)** — an AI-native, multi-tenant legal platform — end-to-end: the AI reasoning layer, the trust and isolation infrastructure around it, and the product itself. Because I have hands-on involvement in discovery and casework using the tool and the engineer building it, the guardrails sit where a practitioner needs them.
 
 🔹 **[Read the ParaIQ case study →](https://github.com/max-lau/paraiq)**
 
